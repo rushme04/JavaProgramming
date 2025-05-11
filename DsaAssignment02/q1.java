@@ -1,5 +1,5 @@
 package DsaAssignment02;
-import java.util.Scanner;;
+import java.util.Scanner;
 class car{
 	String model;
 	int year;
